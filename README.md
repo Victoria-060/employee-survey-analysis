@@ -80,12 +80,21 @@ Planning & Public Works Department recorded the largest number of responses, giv
 - Excel / Power Query → Data cleaning & transformation
 
 ## Conclusion & Recommendations
+
 The analysis reveals a workforce with generally high satisfaction levels, particularly regarding knowledge of job description and overall job satisfaction. 
 Opportunities exist to strengthen bonds between collegeues in work setting, also supervisor support and improve clarity of organizational mission, ensuring continued employee engagement and satisfaction across all departments. The following are recommended to improve Employee satisfaction:
 
 - Strengthen Supervisor Support: Provide targeted leadership training to improve supervisor-employee relationships, consistent guidance and improve supervisor-employee interaction to give feedbacks after a job is done correctly or otherwise.
+
 - Clarify Organizational Mission: Enhance communication strategies to ensure employees understand departmental and county-wide goals.
+
 - Focus on High-Volume Departments: Departments with large respondent bases (e.g., Planning & Public Works, Sheriff’s Department) should receive tailored engagement initiatives.
+
 - Encourage Participation: Maintain or improve survey participation by sharing action plans based on employee feedback to build trust and engagement.
 
-## Connect With Me
+Obasi Victoria - Data Analytics Capstone Project 
+
+### Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/victoria-obasi)
+[Github](https://github.com/Victoria-060)
